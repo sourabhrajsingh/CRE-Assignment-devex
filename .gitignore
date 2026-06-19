@@ -21,3 +21,5 @@ docs/
 
 node_modules
 lib
+lib/openzeppelin-contrats
+lib/forge-std
