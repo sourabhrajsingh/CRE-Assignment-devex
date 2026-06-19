@@ -17,7 +17,7 @@
     }
   },
   "targetContract": {
-    "address": "0x5542cb7764b21f25c8e61f8BA9e4E53e524c3d8c",
+    "address": "0xyourSnapshotContractAddress",
     "chainSelectorName": "ethereum-testnet-sepolia",
     "chainId": 11155111,
     "gasLimit": "650000"
